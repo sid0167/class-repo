@@ -1,1 +1,2 @@
 this is scm class for g25
+hello g25
